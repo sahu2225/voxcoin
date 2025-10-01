@@ -294,4 +294,3 @@ contract VoxCoin is Context, BEP20 {
         emit Transfer(sender, recipient, sendAmount);
     }
 }
-
